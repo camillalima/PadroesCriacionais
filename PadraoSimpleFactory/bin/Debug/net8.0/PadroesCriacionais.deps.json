@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PadroesCriacionais/1.0.0": {
+        "dependencies": {
+          "PizzariaSemFactory": "1.0.0",
+          "PizzariaSimpleFactory": "1.0.0"
+        },
+        "runtime": {
+          "PadroesCriacionais.dll": {}
+        }
+      },
+      "PizzariaSemFactory/1.0.0": {
+        "runtime": {
+          "PizzariaSemFactory.dll": {}
+        }
+      },
+      "PizzariaSimpleFactory/1.0.0": {
+        "runtime": {
+          "PizzariaSimpleFactory.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PadroesCriacionais/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PizzariaSemFactory/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PizzariaSimpleFactory/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
